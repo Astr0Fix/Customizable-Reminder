@@ -25,10 +25,6 @@ This is a customizable reminder made with Python
 
 ## Notes
 
-- The reminder does not do sound
-
-- The reminder does not stay in the action center
-
 - For the reminder to work your computer needs to be on and logged in
 
 - Feel free to edit the code just make sure that you credit me or fork this repo
