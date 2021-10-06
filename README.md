@@ -6,8 +6,6 @@ This is a customizable reminder made with Python
 
 - Python 3.9 (Not tested with other versions)
 
-- Code editor of your choice
-
 - Windows 10 or newer (not tested with MacOS)
 
 - The "Time" and "Plyer" Libraries
