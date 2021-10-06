@@ -17,6 +17,12 @@ This is a customizable reminder made with Python
 1. Run the program and then follow the instructions
 
 
+
+## Resources
+- Plyer Download: https://pypi.org/project/plyer/
+
+
+
 ## Notes
 
 - The reminder does not do sound
@@ -25,4 +31,4 @@ This is a customizable reminder made with Python
 
 - For the reminder to work your computer needs to be on and logged in
 
-- Feel free to edit the code just make sure that you credit me
+- Feel free to edit the code just make sure that you credit me or fork this repo
