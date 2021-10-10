@@ -26,5 +26,5 @@ This is a customizable reminder made with Python
 ## Notes
 
 - For the reminder to work your computer needs to be on and logged in
-
+- No program/app image is shown
 - Feel free to edit the code just make sure that you credit me or fork this repo
